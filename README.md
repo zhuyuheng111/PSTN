@@ -1,7 +1,7 @@
 # 🌱 Plant Spatio-Temporal Integration Network (PSTN)
 ### Unified Framework for Temporal Spatial Transcriptomic Integration  
 **Version:** Training Script (with Evaluation Alignment)  
-**Author:** [Your Name]  
+**Author:** [Yuheng Zhu]  
 **Affiliation:** Jilin University  
 **Date:** 2025  
 
